@@ -1,0 +1,5 @@
+Old color palette
+ #FCB5AC;
+ #B5E5CF;
+
+

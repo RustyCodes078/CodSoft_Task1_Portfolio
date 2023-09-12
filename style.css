@@ -1,0 +1,109 @@
+#Header{
+    height: 120px;
+    background-color: #189ab4;
+
+}
+#Name{
+    text-align: left;
+}
+#InstaIcon{
+    height: 40px;
+    margin-left: 1315px;
+    display: inline-block;
+   
+}
+#SkillsPara{
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#SkillSection{
+    height: 618px;
+    background-color: #04ecf0;
+}
+
+#SkillsHeader{
+    height: 70px;
+    background-color:#189ab4
+
+}
+#LinkedinIcon{
+display: inline-block;
+height: 40px;
+}
+#GithubIcon{
+    display: inline-block;
+    height:45px;
+}
+#Introduction{
+ background:#04ecf0;
+ height: 618px;
+}
+
+#Photo{
+    border: 5px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+}
+#Heading{
+    text-align: left;
+    font-size: 25px;
+    font-family:cursive;
+}
+#SkillsButton{
+    font-size: 30px;
+    text-align: end;
+    float: right;
+    display: inline-block;
+    text-decoration: none;
+
+}
+#ProjectsButton{
+    font-size: 30px;
+    display: inline-block;
+    float: right;
+    text-decoration: none;
+}
+#ContactButton{
+    font-size: 30px;
+    display: inline-block;
+    float: right;
+    text-decoration: none;
+    
+} 
+#IntroductoryParagraph{
+   font-size: 30px;
+   text-align: center;
+   font-style: italic; 
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#NameLogo{
+    height: 70px;
+    width: 20%;
+    display: inline block;
+
+}
+#ResumeLink{
+    text-decoration: none;
+}
+#ResumeButton{
+display: block;
+margin-left: 675px;
+margin-right: auto;
+background-color: rgb(176, 92, 175);
+padding: 15px 32px;
+font-size: 20px;
+box-shadow: 0 0 15px rgb(176, 92, 175);
+border-color: rgb(176, 92, 175);
+border-radius: 5px;
+}
+#ButtonSection{
+background: #04ecf0;
+
+
+
+}
